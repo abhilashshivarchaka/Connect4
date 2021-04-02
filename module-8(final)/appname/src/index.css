@@ -1,0 +1,107 @@
+
+body {
+  background: brown;
+ 
+  padding: 20px;
+  margin: 0;
+}
+#home{
+  /* position: absolute; */
+  color: brown;
+  font-weight: bold;
+  font-size: 35px;
+}
+#player1{
+  font-weight: bold;
+  font-size: 25px;
+}
+#in{
+  position: absolute;
+  left: 680px;
+  font-weight: bold;
+  font-size: 35px;
+}
+#info{
+  position: absolute;
+  left: 680px;
+  top: 200px;
+  
+}
+#info1{
+  position: absolute;
+  left: 600px;
+  top: 250px;
+  font-weight: bold;
+  font-size: 30px;
+}
+#info2{
+  position: absolute;
+  left: 600px;
+  top: 300px;
+  font-weight: bold;
+  font-size: 30px;
+}
+#info3{
+  position: absolute;
+  left: 600px;
+  top: 350px;
+  font-weight: bold;
+  font-size: 30px;
+}
+#info4{
+  position: absolute;
+  left: 600px;
+  top: 400px;
+  font-weight: bold;
+  font-size: 30px;
+}
+#h{
+  color: white;
+}
+#l{
+  font-weight: bold;
+  font-size: 20px;
+}
+#sub{
+  position: absolute;
+  left:730px;
+  top: 450px;
+  font-weight: bold;
+  font-size: 30px;
+}
+#game{
+  position: absolute;
+  left: 1350px;
+  font-weight: bold;
+  font-size: 35px;
+}
+h1, h2, p, ul, li {
+  font-family: sans-serif;
+}
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+ul.header {
+  background-color:brown;
+  padding: 0;
+}
+ul.header li a {
+  color:white;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+.content {
+  background-color:brown;
+  padding: 20px;
+}
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+.content li {
+  margin-bottom: 10px;
+}
